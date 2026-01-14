@@ -1,10 +1,8 @@
 # BREAD - Broadly Reconfigurable and Expandable Automation Device
 
-***Please check the 1.Documentation folder for the original paper and other related documents, licenses, etc!***
+***Please check the Documentation folder for the original paper and other related documents, licenses, etc!***
 
-The URLs to the various project downloads are available in the file LINKS_TO_SOURCES_1_14_26.html in 1.Documentation.
-
-The original project documentation is published in the open-access journal Hardware X 15 and is authored by Shane Oberloier, Nicholas G. Whisman, Finn Hafting, and Joshua M. Pearce. Other contributors have added to the body of work since. Please refer to teh URLs and original sources for important details about licensing, contributors, and any updates.
+The original project documentation is published in the open-access journal Hardware X 15 and is authored by Shane Oberloier, Nicholas G. Whisman, Finn Hafting, and Joshua M. Pearce. Other contributors have added to the body of work since. Please refer to the URLs and original sources for important details about licensing, contributors, and any updates.
 
 ## BREAD Links
 - [Finn Hafting: Modularize your electronics with BREAD - YouTube](https://www.youtube.com/watch?v=OMPlVbqSqJ4)
