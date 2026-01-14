@@ -1,3 +1,6 @@
 [submodule "BREAD"]
 	path = BREAD
 	url = https://github.com/FHafting/BREAD.git
+[submodule "2. Software/BREAD-Local-Software"]
+	path = 2. Software/BREAD-Local-Software
+	url = https://github.com/FHafting/BREAD-Local-Software.git
