@@ -11,7 +11,7 @@ The original project documentation is published in the open-access journal Hardw
 This is not an 'official' or even necessarily a current collection of all of these collected projects. Please see the links below to download from their original sources. The projects are collected here mostly for convenient access and learning.
 
 ## License
-As the original project is licensed CC-BY-SA-4.0, this project is released under the same license.
+As the original project is licensed CC-BY-SA-4.0, this project is released under the same license. Social share image source https://www.appropedia.org/w/index.php?curid=122111.
 
 ## BREAD Links
 - [Finn Hafting: Modularize your electronics with BREAD - YouTube](https://www.youtube.com/watch?v=OMPlVbqSqJ4)
@@ -54,3 +54,4 @@ As the original project is licensed CC-BY-SA-4.0, this project is released under
 - [Finn Hafting | BREAD Contributor](https://osf.io/user/78mv4?tab=2)
 - [BREAD References and Citations](https://ouci.dntb.gov.ua/en/works/lxXvAPQl/)
 - [Open Source Hardware Enterprise](https://oshe.io/)
+- [Original Project Logo](https://www.appropedia.org/w/index.php?curid=122111)
